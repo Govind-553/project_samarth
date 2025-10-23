@@ -1,0 +1,2 @@
+# Welcome To Project Samarth
+An Intelligent Q&A System to Analyze the Rainfall and Crops Production across Indian States with the help of the datasets collected from the official, reliable and trusted website of Data.gov.in supported and managed by Government of India! 
