@@ -1,9 +1,6 @@
-# Requirements for the project
+# requirements for the project Samarth
 
-streamlit==1.24.0
-requests==2.31.0
-python-dotenv==1.0.1
-matplotlib==3.8.1
-openai==1.0.0 
-pandas==2.2.3
-pillow==11.0.0
+streamlit
+pandas
+requests
+python-dotenv
