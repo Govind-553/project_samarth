@@ -8,7 +8,7 @@ st.title("🌾 Project Samarth — Live Data.gov.in Q&A System")
 
 
 st.sidebar.markdown("### ⚙️ Configuration")
-st.sidebar.info("This app fetches live data directly from data.gov.in APIs.")
+st.sidebar.info("This app fetches data directly from data.gov.in APIs.")
 
 
 col1, col2 = st.columns(2)
