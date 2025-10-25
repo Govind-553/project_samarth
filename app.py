@@ -4,7 +4,7 @@ from query_engine import compare_average_rainfall, top_crops_in_state
 
 
 st.set_page_config(page_title="Project Samarth - Live Q&A", layout='wide')
-st.title("🌾 Project Samarth — Live Data.gov.in Q&A System")
+st.title("🌾 Project Nirikshan — Live Data.gov.in Q&A System")
 
 
 st.sidebar.markdown("### ⚙️ Configuration")
